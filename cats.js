@@ -81,7 +81,6 @@ const breeds = [
   "LaPerm",
   "Maine Coon",
   "Mandalay",
-  "Manx",
   "Marbled Mist",
   "Mekong Bobtail",
   "Mexican",
